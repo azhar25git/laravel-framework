@@ -11,3 +11,5 @@
 composer.phar
 composer.lock
 Thumbs.db
+config.bat
+node_modules
